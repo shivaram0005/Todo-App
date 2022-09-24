@@ -7,4 +7,4 @@
     - CSS
     - JAVASCRIPT
 
-This project took me aroudn 5 hours to complete.
+This project took me around 5 hours to complete.
